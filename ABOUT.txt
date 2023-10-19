@@ -1,0 +1,13 @@
+FUNCTION:
+connecting tect file to python program
+
+text file consists of all functions used in the python program
+
+ADD BOOKS-USED TO ADD BOOKS WITH SPECIFIC BOOKID, BOOKNAME,AUTHOR,GENRE, COPIES AND LANGUAGE
+
+SEARCH BOOKS-SEARCHING USING A SPECIIFC FIELD(BOOKID)
+LOREM
+
+LOREM
+LOREM
+
