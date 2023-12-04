@@ -1,3 +1,2 @@
-# 12_Project
-Grade 12 Final project
-Credits: Saheb Yuvraj Singh
+# Grade 12 Final project <br>
+Project on library management using python and tkinter
